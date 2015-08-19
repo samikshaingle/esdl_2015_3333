@@ -1,4 +1,6 @@
+/*Code for addition*/
 #include<iostream.h>
+#include<math.h>
 using namespace std;
 int main()
 {
